@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src="/favicon.ico" className="App-logo" alt="logo" />
         <p>Welcome to FRT Marine</p>
-        <p>This site is currently under construction</p>
+        <p>Here's when magic begins...</p>
       </header>
     </div>
   );
