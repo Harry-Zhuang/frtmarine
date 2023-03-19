@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src="/favicon.ico" className="App-logo" alt="logo" />
         <p>Welcome to FRT Marine</p>
-        <p>This site is still under construction</p>
+        <p>This site is currently under construction</p>
       </header>
     </div>
   );
