@@ -1,15 +1,24 @@
 import "./App.css";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import Product from "./pages/Product";
+import AboutUs from "./pages/AboutUs";
+import NavBar from "./components/NavBar";
+import "bootstrap/dist/css/bootstrap.css";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src="/frt.ico" className="App-logo" alt="logo" />
-        <p>Welcome to FRT Marine</p>
-        <p>Here's when magic begins...</p>
-      </header>
+      <Router>
+        <NavBar />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/Product" element={<Product />} />
+          <Route path="/AboutUs" element={<AboutUs />} />
+        </Routes>
+      </Router>
     </div>
   );
-}
+};
 
 export default App;
