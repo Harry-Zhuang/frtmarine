@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1d1cfa5.css",
-    "main.js": "/static/js/main.d0e0f66f.js",
+    "main.css": "/static/css/main.796c5f89.css",
+    "main.js": "/static/js/main.b693db4d.js",
+    "static/media/DSCF0867.JPG": "/static/media/DSCF0867.218b43801dfaa34f23e8.JPG",
+    "static/media/DSCF0863.JPG": "/static/media/DSCF0863.58683b01970e85aa657d.JPG",
+    "static/media/DSCF0850.JPG": "/static/media/DSCF0850.b2abf734755ceaa9e8b7.JPG",
+    "static/media/frt-logo.png": "/static/media/frt-logo.ee56a0eefd2ea7262b38.png",
+    "static/media/new-zealand.png": "/static/media/new-zealand.f7a27c0acb77ba423a85.png",
     "index.html": "/index.html",
-    "main.d1d1cfa5.css.map": "/static/css/main.d1d1cfa5.css.map",
-    "main.d0e0f66f.js.map": "/static/js/main.d0e0f66f.js.map"
+    "main.796c5f89.css.map": "/static/css/main.796c5f89.css.map",
+    "main.b693db4d.js.map": "/static/js/main.b693db4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1d1cfa5.css",
-    "static/js/main.d0e0f66f.js"
+    "static/css/main.796c5f89.css",
+    "static/js/main.b693db4d.js"
   ]
 }
